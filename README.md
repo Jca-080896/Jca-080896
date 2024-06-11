@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.istockphoto.com/id/186834494/photo/pansies.jpg?s=612x612&w=0&k=20&c=QqLCS93_i8PE4wrgXUZQ5qIFQFe2Ne5A9Xi1J_G9vdk=" alt="Capy Gamer" width="300px">
-    <h1 align="center"> Hi, Im Jessica </h1>
+    <h1 align="center">Jessica Contreras Aguilar </h1>
     <h3 align="center"> 
         Since I was very young, I was passionate about technology and everything related to the computer world. 
         I learned to program for the first time in high school. I love breaking down problems into simpler parts and 
